@@ -23,10 +23,10 @@ twitter_username: fangzilu
 github_username:  myleshk
 
 # google_analytics: [Your Google Analytics tracking ID]
-
+show_downloads: false
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
